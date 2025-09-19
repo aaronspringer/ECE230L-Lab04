@@ -15,7 +15,7 @@ using an implemented design on your Basys3 boards.
 
 ## Lab Summary
 
-In this lab we learned the basics of programming logic from truth tables and using Kernaugh Maps to minimize the logic gates needed from just using the naive solution.
+In this lab we learned the basics of programming logic from truth tables and using Kernaugh Maps to minimize the logic gates needed from just using the naive solution. We furthered our understanding of Kmap minimization using them to simplify both our POS and SOP, we then implemented these logic gates into our basys board to demonstrate that they are equivalant solutions to our truth table, demonstrating how either form of minimization can be used with the same results.
 
 ## Lab Questions
 
